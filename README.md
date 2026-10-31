@@ -26,15 +26,15 @@ Based on the original project by [TechArtDev](https://github.com/techartdev/Cale
 
 | Default View (ISO, No WW, Mon start) | Settings Menu (`VariableItemList`) |
 | :---: | :---: |
-| ![Default Main](screenshots/ss_default_main.png) | ![Default Settings](screenshots/ss_default_settings.png) |
+| ![Default Main](screenshots/ss0.png) | ![Settings Menu](screenshots/ss_settings.png) |
 
 | Ukrainian Locale (DD.MM.YY, WW ON) | German Locale (MM/DD/YY, WW ON) |
 | :---: | :---: |
-| ![Ukrainian EU](screenshots/ss_cal_opt1_eu.png) | ![German US](screenshots/ss_cal_german_us.png) |
+| ![Ukrainian EU](screenshots/ss_ukrainian_ww.png) | ![German US](screenshots/ss_german_us.png) |
 
-| iCalendar Holiday Marquee (1/3) | iCalendar Holiday Marquee (2/3) |
-| :---: | :---: |
-| ![Holiday 1](screenshots/ss_nov_hol1_ukr.png) | ![Holiday 2](screenshots/ss_nov_hol2_ukr.png) |
+| iCalendar Holiday Marquee (Running text) |
+| :---: |
+| ![Holiday Marquee](screenshots/ss_holiday_marquee.png) |
 
 ## Navigation
 
